@@ -1,0 +1,46 @@
+*{
+	margin:0px;
+	padding:0px;
+}
+body {
+	margin:0px;
+	padding:0px;
+}
+
+#back{
+	margin:0px;
+	padding:0px;
+    background-color: #EE4000;
+    position: absolute;
+    z-index: -1;
+    overflow: hidden;
+}
+
+#font{
+	margin:0px;
+	padding:0px;
+    background-color: white;
+    margin-left: 25px;
+    margin-top: 25px;
+    position: relative;
+}
+
+.grid{
+	margin:0px;
+	padding:0px;
+	width: 23px;
+	height: 23px;
+	border: solid 1px #FAEBD7;
+	float: left;
+}
+
+.food{
+	background-color: red;
+}
+.snake{
+	background-color: black;
+}
+
+.head{
+	background-color: black;
+}
