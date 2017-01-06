@@ -1,1 +1,1 @@
-try your best and have a good meal!
+try your best and have a good meal !
