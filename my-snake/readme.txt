@@ -7,3 +7,5 @@ life is a dream you know
 free , wanna be free
 
 no black or white , it's blue.
+
+living easy , loving free , season ticket going oneway ride
