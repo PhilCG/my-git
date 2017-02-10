@@ -2,6 +2,9 @@ v-on
 v-bind
 v-html
 
+v-model
+
 methods
 compute
 watch
+
