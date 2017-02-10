@@ -4,6 +4,8 @@ v-html
 
 v-model
 
+function(event){}
+
 methods
 compute
 watch
