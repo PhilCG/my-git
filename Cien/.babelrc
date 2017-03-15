@@ -1,0 +1,7 @@
+{
+  "presets": [],
+  "plugins": [
+   	"transform-runtime",
+     "transform-es2015-classes"
+  ]
+}
