@@ -55,3 +55,7 @@ Cien.prototype = {
     
     
 // }(window));
+
+
+
+(function(a){console.log(a);return a}('im a'))
